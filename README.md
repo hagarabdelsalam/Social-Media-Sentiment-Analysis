@@ -76,4 +76,21 @@ This project performs sentiment analysis on social media data, specifically Twit
 
 ---
 
+---
+
+## ✨ Future Improvements
+
+- Incorporate Neutral sentiment (score 2)
+- Use advanced models (e.g., Logistic Regression, BERT)
+- Analyze real-time Twitter data using Twitter API
+
+---
+
+## 📬 Contact
+
+For questions or collaboration:  
+**Hagar Abdelsalam** - [hagarabdelsalam64@gmail.com]  
+**www.linkedin.com/in/hagar-abd-el-salam-863a98259** 
+
+
 
